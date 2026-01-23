@@ -47,5 +47,4 @@ The main objective of this project is to transform raw business data into meanin
 ## 📸 Dashboard Preview  
 <img width="1787" height="448" alt="Screenshot 2026-01-23 183028" src="https://github.com/user-attachments/assets/685bc851-e405-4242-afff-d0717de30ff6" />
 <img width="1797" height="819" alt="Screenshot 2026-01-23 182844" src="https://github.com/user-attachments/assets/034cb898-5041-4a66-b6f1-3c4b9472d2a5" />
-<img width="1797" height="819" alt="Screenshot 2026-01-23 182844" src="https://github.com/user-attachments/assets/368304a8-2ac9-4df3-b369-925a450ef5e2" />
 
